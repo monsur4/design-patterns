@@ -1,4 +1,4 @@
-package com.mon.designpatterns.behavioural.proxypattern;
+package com.mon.designpatterns.structural.proxypattern;
 
 public class App {
     public static void main(String[] args) {

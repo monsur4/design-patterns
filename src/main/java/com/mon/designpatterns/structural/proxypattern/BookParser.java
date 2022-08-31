@@ -1,4 +1,4 @@
-package com.mon.designpatterns.behavioural.proxypattern;
+package com.mon.designpatterns.structural.proxypattern;
 
 public class BookParser implements IBookParser{
 
