@@ -1,5 +1,8 @@
-package com.mon.designpatterns.creational.builder;
+package com.mon.designpatterns.creational.builder.user;
 
+/**
+ * Mutable builder using the static mutable Builder inner class
+ */
 public class User {
     private final String firstName;
     private final String lastName;

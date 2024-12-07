@@ -1,4 +1,4 @@
-package com.mon.designpatterns.creational.builder;
+package com.mon.designpatterns.creational.builder.user;
 
 public class App {
     public static void main(String[] args) {
